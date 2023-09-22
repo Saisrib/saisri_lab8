@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Basmati Rice",
+        "description": "100% Organic Basmati Rice, Long, Aromatic.",
+        "price": "Rs. 170",
+        "image": "brownbasmatirice.jpg"
+    },
+    {
+        "name": "Sona Masoori Rice",
+        "description": "100% Organic.",
+        "price": "Rs. 100",
+        "image": "sonamasooriunpolished.webp"
+    },
+    {
+        "name": "Garam Masala",
+        "description": "A blend of Indian spices for adding flavor to dishes.",
+        "price": "Rs. 100",
+        "image": "garam-masala.jpg"
+    },
+    {
+        "name": "Chat Masala",
+        "description": "Flavourful powder used in curries and snacks.",
+        "price": "Rs. 120",
+        "image": "chatmasala.jpg"
+    },
+    {
+        "name": "Turmeric Powder",
+        "description": "100% Organic Ground turmeric, a staple in Indian cuisine.",
+        "price": "Rs. 150",
+        "image": "turmeric.jpeg"
+    },
+    {
+        "name": "Chilli Powder",
+        "description": "100% Organic, Made with Guntur Chillies.",
+        "price": "Rs. 160",
+        "image": "chillipowder.jpeg"
+    },
+    {
+        "name": "Toor Dal",
+        "description": "100% Organic, Rich, Aromatic.",
+        "price": "Rs. 160",
+        "image": "toordal.jpeg"
+    },
+    {
+        "name": "Masoor Dal",
+        "description": "100% Organic, Aromatic.",
+        "price": "Rs. 160",
+        "image": "masoordal.jpeg"
+    },
+    {
+        "name": "Pappula Podi",
+        "description": "100% Organic, Aromatic, Telugu Cuisine Delicacy.",
+        "price": "Rs. 160",
+        "image": "pappulapodi.jpg"
+    }
+]

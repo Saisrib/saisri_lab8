@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Indian Grocery Store</title>
+</head>
+<body>
+    <h1>Indian Grocery Store</h1>
+    <div id="search-container">
+        <input type="text" id="search-input" placeholder="Search products">
+        <button onclick="filterProducts()">Search</button>
+        <label for="sort-select">Sort by:</label>
+        <select id="sort-select" onchange="sortProducts()">
+            <option value="name">Name</option>
+            <option value="price">Price</option>
+        </select>
+    </div>
+    <div id="product-list"></div>
+    
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
